@@ -1,4 +1,4 @@
-name: Continuous Deployment
+name: demo website
 on: [push]
 
 jobs:
